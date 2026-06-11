@@ -60,6 +60,20 @@
       ]
     },
     {
+      "id": "file-io-data-persistence",
+      "title": "File I/O and Data Persistence",
+      "description": "Practice reading, writing, and saving data to files in Python.",
+      "path": "assignments/file-io-data-persistence",
+      "dueDate": "2026-07-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "building-rest-apis-fastapi",
       "title": "Building REST APIs with FastAPI framework",
       "description": "Define RESTful endpoints, validation models, and CRUD operations using FastAPI.",
